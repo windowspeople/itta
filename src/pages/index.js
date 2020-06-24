@@ -31,56 +31,52 @@ const IndexPage = () => (
       </Scroll>
     </section>
 
-    <section id="one" className="wrapper style1 special">
+    <section id="one" className="wrapper style2 special">
       <div className="inner">
         <header className="major">
           <h2>
-            Arcu aliquet vel lobortis ata nisl
+            Cloud Migration, Hyper-Cloud Design, 
             <br />
-            eget augue amet aliquet nisl cep donec
+            Digital Transformation, Cloud Security, TRA/ ST&E
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+            ITTA inc. includes a Canadian staffed delivery team with experienced and certified engineers and support personnel ready to support all types of businesses. 
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
           </p>
         </header>
         <ul className="icons major">
           <li>
-            <span className="icon fa-gem major style1">
-              <span className="label">Lorem</span>
+            <span className="icon fa-credit-card major style">
+              <span className="label">PCI</span>
             </span>
           </li>
           <li>
-            <span className="icon fa-heart major style2">
-              <span className="label">Ipsum</span>
+            <span className="icon   fa-heart major style">
+              <span className="label">Heart</span>
             </span>
           </li>
           <li>
-            <span className="icon solid fa-code major style3">
-              <span className="label">Dolor</span>
+            <span className="icon solid fa-code major style">
+              <span className="label">Code</span>
             </span>
           </li>
         </ul>
       </div>
     </section>
 
-    <section id="two" className="wrapper alt style2">
+    <section id="two" className="wrapper alt style5">
       <section className="spotlight">
         <div className="image">
           <img src={pic1} alt="" />
         </div>
         <div className="content">
           <h2>
-            Magna primis lobortis
+            Data Infrastructure
             <br />
-            sed ullamcorper
+            & Digital transformation
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Digital transformation solutions for data storage virtualization, Migrations of different size customs. Our goal is to provide a Ready-to-use, fully validated and tested solution that helps virtualizing, modernizing and automating infrastructure
           </p>
         </div>
       </section>
@@ -90,13 +86,12 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Tortor dolore feugiat
+            Cloud, Multi-Cloud
             <br />
-            elementum magna
+            Hyper-Converged Infrastructure
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Developed the expertise and framework to deliver consultancy services for cloud adoption strategy, application transformation, and support. We provide full lifecycle of cloud migration services from the initial assessment to operation and maintenance of entire infrastructure. 
           </p>
         </div>
       </section>
@@ -106,13 +101,12 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Augue eleifend aliquet
+            Cyber Security 
             <br />
-            sed condimentum
+            & Treat, Risk Assessment
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Protect and secure against malicious cyber threats with managed cyber security solutions featuring advanced industry solutions with 24/7/365 monitoring and remediation with IDS/IPS/EDR/EPP etc..   
           </p>
         </div>
       </section>
@@ -121,56 +115,47 @@ const IndexPage = () => (
     <section id="three" className="wrapper style3 special">
       <div className="inner">
         <header className="major">
-          <h2>Accumsan mus tortor nunc aliquet</h2>
+          <h2>Consultancy Service</h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+             ITTA takes a data-centric approach, applies best practices and leverages proven methodologies to streamline your digital, IT and/or workforce transformation.
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
           </p>
         </header>
         <ul className="features">
           <li className="icon fa-paper-plane">
-            <h3>Arcu accumsan</h3>
+            <h3>Managed Services</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+               Run daily IT operations with our assistance to render vendor-certified services from Technicians, Project Managers, and Sales Reps to extend or create a dedicated IT team.
             </p>
           </li>
           <li className="icon solid fa-laptop">
-            <h3>Ac Augue Eget</h3>
+            <h3>SaaS Solutions</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              With an affordable subscription, our Cloud Solutions let you host data and applications on our state-of-the-art servers, located in our enterprise-level data center. 
             </p>
           </li>
           <li className="icon solid fa-code">
-            <h3>Mus Scelerisque</h3>
+            <h3>IT SOLUTION</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            ITTA works closely with our partners building server-based networks, transitioning to virtual servers, or improving your communications by taking advantage of our expertise in IT and business management. 
             </p>
           </li>
           <li className="icon solid fa-headphones-alt">
-            <h3>Mauris Imperdiet</h3>
+            <h3>Web/App Development</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            Deliver Professional website design and user-experience with strategic insights to generate greater brand engagement, higher conversions and measurable results. 
             </p>
           </li>
           <li className="icon fa-heart">
-            <h3>Aenean Primis</h3>
+            <h3>CyberSecurity</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            Provide security solutions delivers the scope, scale, and capabilities to keep you ahead of an ever-increasing number and complexity of threats.
             </p>
           </li>
           <li className="icon fa-flag">
-            <h3>Tortor Ut</h3>
+            <h3>GOVERNANCE, RISK & COMPLIANCE</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+            Help clients tackle the broad issues of corporate governance, risk management, and effective corporate compliances. 
             </p>
           </li>
         </ul>
@@ -180,21 +165,20 @@ const IndexPage = () => (
     <section id="cta" className="wrapper style4">
       <div className="inner">
         <header>
-          <h2>Arcue ut vel commodo</h2>
+          <h2>Join Our Newsletter</h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-            eleifend fringilla.
+            Join for industry and event announcementsts
           </p>
         </header>
         <ul className="actions stacked">
           <li>
             <a href="/#" className="button fit primary">
-              Activate
+              Join Our Newsletter
             </a>
           </li>
           <li>
             <a href="/#" className="button fit">
-              Learn More
+              Learn More About ITTA
             </a>
           </li>
         </ul>

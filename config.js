@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
-  manifestName: 'Spectral',
+  siteTitle: 'ITTA Inc - Innovite Technology Associates', // <title>
+  manifestName: 'ITTA - Innovite ',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'INNOVITE CONSULTING INC',
+  subHeading: 'ITTA is an IT services, consulting firm that partners with local businesses in their transformation journeys with a consulting-led, Cognitive powered, integrated portfolio of IT, Security & Technology Services.',
   // social
   socialLinks: [
     {
