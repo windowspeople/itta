@@ -14,21 +14,21 @@ module.exports = {
   socialLinks: [
     {
       style: 'brands',
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-facebook',
+      name: 'facebook',
+      url: 'https://www.facebook.com/profile.php?id=100005960328689',
     },
     {
       style: 'brands',
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/ITTA02408049',
     },
     {
       style: 'solid',
       icon: 'fa-envelope',
       name: 'Email',
-      url: 'mailto:test@example.com',
+      url: 'mailto:admin@itta.ca',
     },
   ],
 };
