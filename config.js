@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'INNOVITE CONSULTING INC',
-  subHeading: 'ITTA is an IT services, consulting firm that partners with local businesses in their transformation journeys with a consulting-led, Cognitive powered, integrated portfolio of IT, Security & Technology Services.',
+  subHeading: 'A Data-centric, Cognitive powered, integrated portfolio of IT, Security & Technology Services.',
   // social
   socialLinks: [
     {
